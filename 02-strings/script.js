@@ -8,7 +8,7 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 let number = 23
-let text = 'ciao'
+let text = "ciao"
 let booleano = true
 console.log (number, text, booleano)
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
